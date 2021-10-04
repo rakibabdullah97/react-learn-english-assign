@@ -13,9 +13,9 @@ const ServicesCardPage = (props) => {
     return (
         <div>
             <div className="col">
-                <div className="card">
+                <div className="card h-100">
                     <img src={img} className="card-img-top" alt="..." />
-                    <div className="card-body">
+                    <div className="card-body ">
                         <h5 className="card-title">Course Title: {title}</h5>
                         <p className="card-text">By:{instructor}</p>
                         <p className="card-text">Student Enrolled: {enrolled}</p>

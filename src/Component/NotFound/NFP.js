@@ -3,7 +3,8 @@ import React from 'react';
 const NFP = () => {
     return (
         <div>
-            <img src='https://yoast.com/app/uploads/2015/08/404_error_checking_FI.png'alt='' />
+            <img src='https://www.wpoven.com/blog/wp-content/uploads/2019/12/404-error-not-found.png'alt='' />
+            
         </div>
     );
 };

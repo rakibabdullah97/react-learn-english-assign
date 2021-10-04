@@ -11,7 +11,7 @@ import { createContext } from 'react';
 export const showContext = createContext()
 
 function App() {
-  const context = <h1 className='m-3'>Our <span className='service-title'>Our ALL Services</span> Are Shown Here<span className='service-title'> Join now</span></h1>
+  const context = <h1 className='m-3'> <span className='service-title'>Our ALL Services</span> Are Shown Here<span className='service-title'>. Join now!!</span></h1>
   return (
     <showContext.Provider value={context}>
       <div className="App">

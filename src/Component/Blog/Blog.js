@@ -13,6 +13,11 @@ const Blog = () => {
                 <br />
                 <p>(PRWEB) January 21, 2013 On Monday, January 21st, LearnALanguage.com plans to release the beta version of its language-learning courses. These courses, which have been taught in over 130 countries, at schools and major corporations are now entirely free. The company believes that people are paying far too much to learn a new language. “The reality is, with the evolution of the internet, things that used to cost money are now completely free. If people can get encyclopedias, dictionaries, personalized music, children’s learning games and video games free on the internet, there is no reason that language learning shouldn’t be free as well,” remarked Dave Clark, CEO of LearnALanguage.com. The new learning system is offered in Spanish, French, Italian, German, Japanese, Chinese and Russian. The company aims to help individuals stay motivated with …</p>
             </div>
+            <div className='blog-post'>
+                <h3>Why I’m Thankful for Learning English</h3>
+                <br />
+                <p>Every year around Thanksgiving I take time to reflect about the things for which I am thankful. You can bet that I am grateful for the opportunity to learn Spanish. Learning Spanish has opened doors and provided me with opportunities I would not otherwise have. I met a Guatemalan man in Boston, Massachusetts on a work visa. His name is Eric Quixaj, and he became one of my great friends. We were able to take part in some service activities together and he has a giant heart. He has since returned to Guatemala and I have been unable to contact him, but the memories remain. I am certainly not the brightest star in the sky, but I do know that learning Spanish has sharpened my memory. I am under the …</p>
+            </div>
         </div>
     );
 };

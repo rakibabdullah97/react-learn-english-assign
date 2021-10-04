@@ -14,8 +14,8 @@ const TopServices = () => {
 
     return (
         <div >
-            <h1 className='m-3'>Our <span className='service-title'>Top Rated Services</span>.Students joing from <span className='service-title'>Around The Globe </span></h1>
-            <div className="row row-cols-1 row-cols-md-4 g-4">
+            <h1 className='m-3'>Our <span className='service-title'>Top Rated Services</span>.Students Joing From <span className='service-title'>Around The Globe </span></h1>
+            <div className="row row-cols-1 row-cols-md-4 g-4 mt-3">
                 {
                     services.map(service => <ServiceCardHome
                         key={service.id}
