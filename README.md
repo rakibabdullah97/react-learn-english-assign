@@ -4,5 +4,7 @@ Live Site Link :
 
 ## Available Technologies
 
-Booststrap 5, React,Vanila CSS
+-Booststrap 5 
+-React
+-Vanila CSS
 
